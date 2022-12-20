@@ -1,6 +1,6 @@
 # React + Sass responsive layout
 
-I am getting an array of todos from the server and render them. The main task was to configure the sorting of todos by status and by search and also the modal window of each individual todo. [DEMO LINK](https://alej4ndro1.github.io/list-of-todos/)
+I am getting an array of todos from the server and render them. The main task was to configure the sorting of todos by status and by search and also the modal window of each individual todo. [DEMO LINK](https://alej4ndro1.github.io/test_responsive_layout/)
 
 ## Technologies
     "@reduxjs/toolkit": "^1.9.1",
