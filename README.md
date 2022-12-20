@@ -1,6 +1,6 @@
 # React + Sass responsive layout
 
-I used mock-up from figma and implemented responsive web page based on React and Sass [DEMO LINK](https://alej4ndro1.github.io/test_responsive_layout/)
+I used mock-up from figma and implemented responsive web page based on React and Sass. [DEMO LINK](https://alej4ndro1.github.io/test_responsive_layout/)
 
 ## Technologies
     "@reduxjs/toolkit": "^1.9.1",
