@@ -80,6 +80,10 @@
     }
   }
 
+  &__dataWrapper {
+    margin-bottom: 30px;
+  }
+
   &__radioSection {
     display: flex;
     align-items: center;
@@ -108,6 +112,10 @@
     line-height: 24px;
 
     color: #000000;
+
+    @include onDesktop {
+      margin-right: 10px;
+    }
   }
 
   &__switcher {

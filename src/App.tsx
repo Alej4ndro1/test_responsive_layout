@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import './App.scss';
 import './utils/_mixins.scss';
 import { Footer } from './components/Footer/Footer';
