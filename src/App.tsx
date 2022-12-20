@@ -7,8 +7,12 @@ import { Main } from './components/Main/Main';
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Main />
+      <div className="App__wrapper">
+        <Header />
+        <Main />
+        <div className="push">
+        </div>
+      </div>
       <Footer />
     </div>
   );

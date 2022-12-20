@@ -1,6 +1,15 @@
 .App {
   margin: 0;
   padding: 0;
+
+  &__wrapper {
+    min-height: 100vh;
+    margin-bottom: -49px;
+  }
+}
+
+.push {
+  height: 49px;
 }
 
 .App-logo {
